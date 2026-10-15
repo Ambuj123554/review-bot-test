@@ -1,0 +1,6 @@
+ignore_paths:
+  - "docs/**"
+min_severity: MEDIUM
+disable_rules:
+  - AST-002
+custom_instructions: "Keep each comment to one short sentence."
